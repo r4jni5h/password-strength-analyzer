@@ -24,8 +24,9 @@ A Python-based tool with GUI interfaces that helps users analyze the strength of
 ##  How to Run
 
 ### 1. Install Required Library
-pip3 install zxcvbn
-tkinter is built-in on most systems like macOS and Windows.
+--pip3 install zxcvbn
+![Screenshot](zxcvbn.png)
+--tkinter is built-in on most systems like macOS and Windows.
 
 ###2. Run the App
 bash
@@ -40,6 +41,11 @@ python3 password_analyzer_gui.py
 --Enter personal info (e.g., tom jerry 9876 12345) and generate a wordlist
 
 ![App Screenshot](gui.png)
+
+**OUTPUT***
+Wordlist Output
+
+👉 [Click here to view the generated wordlist](wordlist.txt)
 
 
 
