@@ -49,5 +49,8 @@ Wordlist Output
 
 
 
+## 📄 Project Report
+
+📥 [Click here to view the full project report (PDF)](password_analyzer_report.pdf)
 
  ---
