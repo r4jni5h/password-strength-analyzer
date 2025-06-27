@@ -33,11 +33,14 @@ Copy
 Edit
 python3 password_analyzer_gui.py
 --A window will open where you can:
-password_analyzer_gui.png
+![App Screenshot](password_analyzer_gui.png)
 
+## 🖼️ GUI Preview
 --Enter a password and check its strength
 --Enter personal info (e.g., tom jerry 9876 12345) and generate a wordlist
-gui.png
+
+![App Screenshot](gui.png)
+
 
 
 
