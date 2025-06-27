@@ -54,4 +54,4 @@ Wordlist Output
 
 ---
 
-<pre> ## 📦 Project Structure <code> password-strength-analyzer/ ├── 🧠 password_analyzer_gui.py # Main Python GUI application ├── 📄 password_analyzer_report.pdf # (Optional) 2-page project report ├── 🖼️ screenshot_gui.png # (Optional) GUI preview image ├── 📁 output/ │ └── 🧾 wordlist.txt # Generated wordlist file ├── 📘 README.md # Project documentation (this file) </code> </pre>
+<pre> ## 📦 Project Structure ``` password-strength-analyzer/ ├── 🧠 password_analyzer_gui.py # Main Python GUI application ├── 📄 password_analyzer_report.pdf # (Optional) 2-page project report ├── 🖼️ screenshot_gui.png # (Optional) GUI preview image ├── 📁 output/ │ └── 🧾 wordlist.txt # Generated wordlist file ├── 📘 README.md # Project documentation (this file) ``` </pre>
